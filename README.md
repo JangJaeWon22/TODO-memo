@@ -10,3 +10,5 @@ hanghae99 강의 공부 TODO-memo 만들어보기
  - Validation : joi
  - Todo 모델 작성
  - 할일 추가하기 api 생성
+ - 할일 목록 가져오는 api 생성
+ - 할일 순서 변경(up, down 방식) api 생성
