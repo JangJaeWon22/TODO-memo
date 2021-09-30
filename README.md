@@ -12,3 +12,6 @@ hanghae99 강의 공부 TODO-memo 만들어보기
  - 할일 추가하기 api 생성
  - 할일 목록 가져오는 api 생성
  - 할일 순서 변경(up, down 방식) api 생성
+ - 할일 삭제 api 생성
+ - 할일 체크박스 api 생성 (check 시 new data 저장, 해제 시 null)
+ - 할일 내용 수정 api 생성
