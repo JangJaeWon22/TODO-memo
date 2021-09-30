@@ -105,3 +105,6 @@ dist
 
 # node_modules Ben
 /node_modules
+
+# .DS_Store Ben
+.Ds_Store
